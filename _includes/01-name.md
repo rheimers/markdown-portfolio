@@ -1,1 +1,2 @@
-Replace this with your name, and include a header.
+# regine tries to figure out how this works
+## time will show
