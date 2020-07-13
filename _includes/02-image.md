@@ -1,1 +1,1 @@
-![image of Smiley](https://giphy.com/gifs/26uffpTgqWlSpgK2Y)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
