@@ -3,5 +3,5 @@
 3. Friends
 4. Cooking
 
-*keep going
-*and trust
+- keep going
+- and trust
