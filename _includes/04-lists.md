@@ -5,4 +5,4 @@
 
 - keep going
 - and trust
-- and do not forget to :smile
+- and do not forget to :smile:
