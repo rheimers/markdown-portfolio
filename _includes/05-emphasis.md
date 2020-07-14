@@ -1,1 +1,6 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*hard to talk about personal **skills***
+but here _go_
+__loving_
+__empathetic__
+__listening__
+__passionate__
