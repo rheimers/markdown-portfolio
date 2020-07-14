@@ -1,1 +1,1 @@
-[link to my github] (github.com/rheimers)
+[link to my github](https://github.com/rheimers)
